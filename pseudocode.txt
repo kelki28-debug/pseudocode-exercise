@@ -1,0 +1,3 @@
+buat 3 variable.
+isi 2 variable dengan angka apapun.
+kemudian isi variable 3 dengan hasil perkalian dari variable 1 dan variable 2

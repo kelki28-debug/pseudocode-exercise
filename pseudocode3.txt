@@ -1,0 +1,2 @@
+buat sebuah for loop dengan initial variable value 0, kemudian conditional initial variable value dengan <=100, increment.
+masukan output "saya senang" dalam bentuk string pada for loop.

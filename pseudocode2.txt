@@ -1,0 +1,3 @@
+buat 3 variable, variable 1 bernama alas, variable 2 bernama tinggi, variable 3 bernama luas.
+isi variable alas dan tinggi dengan angka apapun.
+kemudian variable luas dengan rumus alas dikali tinggi dibagi 2.

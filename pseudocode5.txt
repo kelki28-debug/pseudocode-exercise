@@ -1,0 +1,5 @@
+buat sebuah for loop pengulangan sebanyak <= 10 dengan dengan variable i dan if statement.
+if i modulo 2 !== 0
+buat output ganjil
+else
+buat output genap

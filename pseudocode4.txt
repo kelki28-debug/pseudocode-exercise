@@ -1,0 +1,13 @@
+buat sebuah variable nilai dan score tanpa value.
+kemudian dengan menggunakan if statement
+
+if variable nilai >= 80
+score = A
+else if variable nilai < 80 && > 70
+score = B 
+else if variable nilai < 70 && > 60
+score = C
+else if variable nilai < 60 && > 50
+score = C
+else 
+score = E
